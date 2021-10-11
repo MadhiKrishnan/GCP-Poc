@@ -1,4 +1,0 @@
-0:0:0:0:0:0:0:1 - - [11/Oct/2021:08:47:08 +0530] "GET /governor-framework HTTP/1.1" 302 - http-bio-9090-exec-1 0
-0:0:0:0:0:0:0:1 - - [11/Oct/2021:08:47:08 +0530] "GET /governor-framework/ HTTP/1.1" 200 52 http-bio-9090-exec-3 240
-0:0:0:0:0:0:0:1 - - [11/Oct/2021:08:47:08 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-4 0
-0:0:0:0:0:0:0:1 - - [11/Oct/2021:08:52:20 +0530] "GET /governor-framework/request-accepter HTTP/1.1" 200 30 http-bio-9090-exec-1 15
